@@ -5,7 +5,7 @@
 	<h2 style="color: red; font-size: 57px;" align="left">I am from Andhra Pradesh</h2>
 	<h2 style="color: red; font-size: 57px;" align="left">My blood group is A+</h2>
 	<h2 style="color: blue; font-size: 57px;" align="left">My favourite Sport is Cricket</h2>
-	<h2 style="color: blue; font-size: 57px;" align="left">My favourite Cricketer is Virat Kohli</h2>
+	<h2 style="color: Red; font-size: 57px;" align="left">My favourite Cricketer is Virat Kohli</h2>
 	
 	
 	
