@@ -4,7 +4,7 @@
 	<h1 style="color: orange; font-size: 57px;" align="left">I am 23 years old</h1>
 	<h1 style="color: red; font-size: 57px;" align="left">I am from Andhra Pradesh</h1>
 	<h1 style="color: red; font-size: 57px;" align="left">My blood group is O+</h1>
-        <h1 style="color: red; font-size: 57px;" align="left">My highest qualification is BSC </h1>
+        <h1 style="color: red; font-size: 57px;" align="left">My highest qualification is BSC</h1>
 
 	
 	
