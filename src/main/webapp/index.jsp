@@ -4,8 +4,6 @@
 	<h1 style="color: orange; font-size: 57px;" align="left">I am 23 years old</h1>
 	<h1 style="color: red; font-size: 57px;" align="left">I am from Andhra Pradesh</h1>
 	<h1 style="color: red; font-size: 57px;" align="left">My blood group is O+</h1>
-	<h1 style="color: blue; font-size: 57px;" align="left">My favourite Sport is Cricket</h1>
-	<h1 style="color: Red; font-size: 57px;" align="left">My favourite Cricketer is Virat Kohli</h1>
 	
 	
 	
